@@ -1,10 +1,10 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Shirsha Nag</h1>
-<h3 align="center">aka Toto Wolf 🏎️ | Quantum Coder ⚛️ | CP Warrior 👨‍💻</h3>
+<h3 align="center">aka Quantum Wolf 🏎️ | Quantum Coder ⚛️ | CP Warrior 👨‍💻</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shirsanag&label=Profile%20views&color=0e75b6&style=flat" alt="shirsanag" />
+  <img src="[https://komarev.com/ghpvc/?username=shirsanag&label=Profile%20views&color=0e75b6&style=flat](https://media.licdn.com/dms/image/v2/D5603AQH9mK2FPp0CTQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729777567019?e=1756339200&v=beta&t=83s_iuX5jZCxIZN001pet80eJ2PUs1JdnTiyJ5MEzlk)" alt="shirsanag" />
 </p>
 
 ---
