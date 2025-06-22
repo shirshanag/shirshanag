@@ -50,11 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirshanag&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" />
 </p>
 
-## 📈 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirshanag&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 
 ---
