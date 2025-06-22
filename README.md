@@ -32,7 +32,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Qiskit-000000?style=flat&logo=IBM&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/-IBMQ-20232A?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git"/>
