@@ -60,9 +60,9 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/shirsha-nag-b4aa87219/)" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
-  <a href="mailto:yourmail@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="gmail" /></a>
-  <a href="(https://github.com/shirshanag)" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github" alt="github" /></a>
+  <a href="https://www.linkedin.com/in/shirsha-nag-b4aa87219/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
+  <a href="15shirsha@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="gmail" /></a>
+  <a href="https://github.com/shirshanag" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github" alt="github" /></a>
 </p>
 
 ---
