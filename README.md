@@ -4,7 +4,7 @@
 <h3 align="center">aka Quantum Wolf 🏎️ | Quantum Coder ⚛️ | CP Warrior 👨‍💻</h3>
 
 <p align="center">
-  <img src="file:///C:/Users/SHIRSHA/Downloads/dp_git.jpeg" alt="shirsanag" />
+  <img src="dp_git.jpeg" alt="shirsanag" />
 </p>
 
 ---
