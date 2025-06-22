@@ -19,8 +19,8 @@
 
 ## 🚀 Featured Projects
 
-- 🎥 [Netflix Movie Recommender]([https://github.com/yourrepo](https://github.com/shirshanag/Netflix-recommendation-ml-model)
-- 🌱 [Air Quality Predictor (ML)](https://github.com/yourrepo)
+- 🎥 [Netflix Movie Recommender]([https://github.com/Netflix_repo](https://github.com/shirshanag/Netflix-recommendation-ml-model)
+- 🌱 [Quantum-Computing](https://github.com/yourrepo)https://github.com/shirshanag/Quantum-Computing
 - ⚛️ [Quantum Molecule Energy Comparator](https://github.com/yourrepo)
 - 🔐 [Cybersecurity Toolkit (Coming Soon)](https://github.com/yourrepo)
 
