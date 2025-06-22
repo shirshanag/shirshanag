@@ -9,9 +9,9 @@
 
 - 🔭 Currently working on: **Quantum Regression Model using Qiskit**
 - 🧠 Learning: **Quantum Machine Learning, Cybersecurity, and React**
-- 🛠️ Working on : **Quantum **
+- 🛠️ Building : **Quantum based Drug testing simulator**
 - 👨‍🏫 Teaching: **Machine Learning + Quantum concepts**
-- 📫 Reach me at: **yourmail@gmail.com**
+- 📫 Reach me at: **15shirsha@gmail.com**
 - 🎯 Goal: **To build a future where Quantum meets AI**
 - 🧪 Fun fact: *I dream in Qubits* ⚛️
 
@@ -19,7 +19,7 @@
 
 ## 🚀 Featured Projects
 
-- 🎥 [Netflix Movie Recommender](https://github.com/yourrepo)
+- 🎥 [Netflix Movie Recommender]([https://github.com/yourrepo](https://github.com/shirshanag/Netflix-recommendation-ml-model)
 - 🌱 [Air Quality Predictor (ML)](https://github.com/yourrepo)
 - ⚛️ [Quantum Molecule Energy Comparator](https://github.com/yourrepo)
 - 🔐 [Cybersecurity Toolkit (Coming Soon)](https://github.com/yourrepo)
