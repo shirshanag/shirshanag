@@ -20,9 +20,9 @@
 ## 🚀 Featured Projects
 
 - 🎥 [Netflix Movie Recommender]([https://github.com/Netflix_repo](https://github.com/shirshanag/Netflix-recommendation-ml-model)
-- 🌱 [Quantum-Computing](https://github.com/yourrepo)https://github.com/shirshanag/Quantum-Computing
-- ⚛️ [Quantum Molecule Energy Comparator](https://github.com/yourrepo)
-- 🔐 [Cybersecurity Toolkit (Coming Soon)](https://github.com/yourrepo)
+- 🌱 [Python-Projects]([https://github.com/Python-repo](https://github.com/shirshanag/python_projects)
+- ⚛️ [Quantum-Computing]([https://github.com/Quantum-Computing-repo](https://github.com/shirshanag/Quantum-Computing)
+- 
 
 ---
 
