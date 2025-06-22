@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shirsha Nag</h1>
 <h3 align="center">aka Quantum Wolf 🏎️ | Quantum Coder ⚛️ | CP Warrior 👨‍💻</h3>
 
-<p align="center">
-  <img src="dp_git.jpeg" alt="shirsanag" />
-</p>
+
 
 ---
 
