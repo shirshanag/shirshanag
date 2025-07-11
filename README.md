@@ -2,9 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Shirsha Nag</h1>
 <h3 align="center">aka Quantum Wolf 🏎️ | Quantum Coder ⚛️ | CP Warrior 👨‍💻</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shirshanag&label=Profile%20views&color=0e75b6&style=flat" alt="shirshanag" />
+  <br>
+  <img src="https://img.shields.io/github/issues/shirshanag/sonic_ai" alt="GitHub issues"/>
 </p>
 
 ---
