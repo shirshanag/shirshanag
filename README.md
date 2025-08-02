@@ -12,7 +12,7 @@
 - 🎓 CSE Undergrad | MAKAUT | IoT & Cybersecurity  
 - 🛠️ Building: Real-world tools using **Python**, **APIs**, **Tkinter**, **ML/DL Models**  
 - 📚 Currently Learning: Quantum ML, CNNs, Cybersecurity, Cloud, React  
-- 🌐 Contributor @ GSSoC / SSOC ‘25  
+- 🌐 Contributor @ GSSoC / OSCI ‘25  
 - 🧑‍💻 Ask me about: Python, Qiskit, DSA, ML logic, CNN architectures  
 - 💼 Seeking: Internship opportunities (ML/Quantum preferred)  
 - ⚡ Fun fact: *While others debug, I delegate... to myself.*  
