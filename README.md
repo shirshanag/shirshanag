@@ -16,7 +16,7 @@
 - 🌐 Contributor @ GSSoC / OSCI ‘25  
 - 🧑‍💻 Ask me about: Python, Qiskit, DSA, ML logic, CNN architectures  
 - 💼 Seeking: Internship opportunities (ML/Quantum preferred)  
-- ⚡ Fun fact: *While others debug, I delegate... to myself.*  
+- ⚡ Fun fact: *I dream in qubits*  
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="Python"/>
