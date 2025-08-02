@@ -19,13 +19,14 @@
 - ⚡ Fun fact: *While others debug, I delegate... to myself.*  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Qiskit_logo.svg" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="Python"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" alt="Linux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Qiskit_logo.svg" width="40" alt="Qiskit"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" alt="PyTorch"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" alt="GitHub"/>
 </p>
+
 
 ---
 
