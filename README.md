@@ -1,59 +1,77 @@
 
+<h1 align="center">Hey there, I'm Shirsha Nag 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Shirsha Nag</h1>
-<h3 align="center">aka Quantum Wolf 🏎️ | Quantum Coder ⚛️ | CP Warrior 👨‍💻</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shirshanag&label=Profile%20views&color=0e75b6&style=flat" alt="shirshanag" />
-  <br>
-  <img src="https://img.shields.io/github/issues/shirshanag/Python-ML-projects" alt="GitHub issues"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Quantum+Dev+%7C+ML+%26+DL+Explorer+%7C+Cybersec+Learner;ACM+Member+%7C+SSOC+%2725+Contributor;Engineer+in+the+making+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🔭 Currently working on: **Quantum Regression Model using Qiskit**
-- 🧠 Learning: **Quantum Machine Learning, Cybersecurity, and React**
-- 🛠️ Building: **Quantum-based Drug Testing Simulator**
-- 👨‍🏫 Teaching: **Machine Learning + Quantum Concepts**
-- 📫 Reach me at: **15shirsha@gmail.com**
-- 🎯 Goal: **To build a future where Quantum meets AI**
-- 🧪 Fun fact: *I dream in Qubits* ⚛️
+## 🧠 Who am I?
+
+- 🎓 CSE Undergrad | MAKAUT | IoT & Cybersecurity  
+- 🛠️ Building: Real-world tools using **Python**, **APIs**, **Tkinter**, **ML/DL Models**  
+- 📚 Currently Learning: Quantum ML, CNNs, Cybersecurity, Cloud, React  
+- 🌐 Contributor @ GSSoC / SSOC ‘25  
+- 🧑‍💻 Ask me about: Python, Qiskit, DSA, ML logic, CNN architectures  
+- 💼 Seeking: Internship opportunities (ML/Quantum preferred)  
+- ⚡ Fun fact: *While others debug, I delegate... to myself.*  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qiskit/qiskit-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</p>
+
+---
+
+## 🧰 Tech Toolbox
+
+| Tools & Languages | Experience |
+|-------------------|------------|
+| Python, C++, Bash | ⭐⭐⭐⭐ |
+| Qiskit, Quantum Circuits | ⭐⭐⭐⭐⭐ |
+| Scikit-learn, Pandas, NumPy | ⭐⭐⭐⭐⭐ |
+| TensorFlow, Keras, PyTorch | ⭐⭐|
+| HTML, CSS | ⭐⭐⭐ |
+| MongoDB | ⭐⭐ |
+| Git, Linux, Arduino | ⭐⭐⭐⭐ |
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🎥 [Netflix Movie Recommender](https://github.com/shirshanag/Netflix-recommendation-ml-model)
-- 🌱 [Python Projects](https://github.com/shirshanag/python_projects)
-- ⚛️ [Quantum Computing Projects](https://github.com/shirshanag/Quantum-Computing)
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Qiskit-000000?style=flat&logo=IBM&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-IBMQ-20232A?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git"/>
-</p>
+- 🔬 [Quantum Regression on Boston Housing](https://github.com/shirshanag/quantum-regression) – QML + Linear Regression  
+- 🎬 [Netflix Recommendation System (ML)](https://github.com/shirshanag/netflix-recommender) – Collaborative Filtering  
+- 🌫️ [Air Quality Predictor (ML + AR Model)](https://github.com/shirshanag/air-quality-predictor)  
+- 🧠 [Image Classifier using CNN (Keras)](https://github.com/shirshanag/image-classifier-cnn)  
+- 💡 [IoT + Sensor Projects (Tinkercad/Arduino)](https://github.com/shirshanag/iot-sensors)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shirshanag&show_icons=true&count_private=true&theme=radical&cache_seconds=60" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shirshanag&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirshanag&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirshanag&layout=compact&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirshanag&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" />
-</p>
-
-
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shirshanag&theme=gruvbox&no-bg=true&no-frame=true" />
+</p>
+
+---
+
 
 ## 🔗 Connect With Me
 
