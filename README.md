@@ -46,11 +46,11 @@
 
 ## 🚀 Featured Projects
 
-- 🔬 [Quantum Regression on Boston Housing](https://github.com/shirshanag/quantum-regression) – QML + Linear Regression  
-- 🎬 [Netflix Recommendation System (ML)](https://github.com/shirshanag/netflix-recommender) – Collaborative Filtering  
-- 🌫️ [Air Quality Predictor (ML + AR Model)](https://github.com/shirshanag/air-quality-predictor)  
+- 🔬 [Quantum Computing](https://github.com/shirshanag/QxLab) – QML + Linear Regression  
+- 🎬 [Netflix Recommendation System (ML)](https://github.com/shirshanag/Netflix-recommendation-ml-model) – Collaborative Filtering  
+- 🌫️ [(ML Model](https://github.com/shirshanag/Python-ML-projects)  
 - 🧠 [Image Classifier using CNN (Keras)](https://github.com/shirshanag/image-classifier-cnn)  
-- 💡 [IoT + Sensor Projects (Tinkercad/Arduino)](https://github.com/shirshanag/iot-sensors)
+- 💡 [IoT + Sensor Projects (Tinkercad/Arduino)](https://github.com/shirshanag/Arduino-IoT-Lab)
 
 ---
 
