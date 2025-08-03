@@ -1,27 +1,15 @@
+<h1 align="center">Hi I'm Shirsha Nag</h1>
 
-<h1 align="center">Hi I'm Toto Wolf</h1>
-
-<h2 align="center">Quantum | ML | DL Explorer</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/UTSAVS26/UTSAVS26/main/dev.gif" alt="dev workspace" />
-</p>
-
-<p align="center"><em>Let's connect! Always learning, always building.</em></p>
-
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Quantum + Ml Enthusiast</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Click-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Click-red?style=for-the-badge&logo=gmail" alt="Gmail">
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Click-brightgreen?style=for-the-badge&logo=google-chrome" alt="Website">
-  </a>
+  <img src="https://media.giphy.com/media/YOUR_IMAGE_LINK_HERE/giphy.gif" alt="coder" />
 </p>
+
+<p align="center"><em>Let's connect!</em></p>
+
+
+
 
 
 ---
