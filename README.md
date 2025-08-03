@@ -3,7 +3,7 @@
 <h2 align="center">Quantum + Ml Enthusiast</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YOUR_IMAGE_LINK_HERE/giphy.gif" alt="coder" />
+  <img src="https://media.giphy.com/media/https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnU5YjFiZzc5cnpyMTBwdWFhcjJ2czBhdGtoNHA4ZWVlbG94dXlwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sGIxhunddTUOHlHXgu/giphy.gif/giphy.gif" alt="coder" />
 </p>
 
 <p align="center"><em>Let's connect!</em></p>
