@@ -1,73 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Shirsha Nag</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f7f9fc;
-      color: #222;
-      text-align: center;
-      margin-top: 60px;
-    }
+<!-- README.md (use this inside a markdown file) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+I'm+Shirsha+Nag;Quantum+%2B+ML+Enthusiast" alt="Typing SVG" />
+</h1>
 
-    h1 {
-      font-size: 2.5em;
-      border-right: 3px solid rgba(0, 0, 0, 0.75);
-      white-space: nowrap;
-      overflow: hidden;
-      width: 0;
-      margin: auto;
-      animation: typing 3s steps(30, end) forwards, blink 0.75s step-end infinite;
-    }
+<p align="center">
+  <img src="https://media.giphy.com/media/sGIxhunddTUOHlHXgu/giphy.gif" width="300" alt="coder GIF" />
+</p>
 
-    h2 {
-      opacity: 0;
-      animation: fadeIn 2s ease 3.2s forwards;
-      font-weight: 400;
-    }
-
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 100% }
-    }
-
-    @keyframes blink {
-      50% { border-color: transparent }
-    }
-
-    @keyframes fadeIn {
-      to { opacity: 1 }
-    }
-
-    img {
-      width: 300px;
-      margin-top: 30px;
-    }
-
-    p em {
-      display: block;
-      margin-top: 20px;
-      font-size: 1.2em;
-      animation: fadeIn 1s ease 5s forwards;
-      opacity: 0;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>Hi I'm Shirsha Nag</h1>
-  <h2>Quantum + ML Enthusiast</h2>
-
-  <p>
-    <img src="https://media.giphy.com/media/sGIxhunddTUOHlHXgu/giphy.gif" alt="coder" />
-  </p>
-
-  <p><em>Let's connect!</em></p>
-
-</body>
-</html>
 
 
 
