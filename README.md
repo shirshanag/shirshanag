@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/sGIxhunddTUOHlHXgu/giphy.gif" width="300" alt="coder GIF" />
+  <img src="https://media.giphy.com/media/sGIxhunddTUOHlHXgu/giphy.gif" width="600" alt="coder GIF" />
 </p>
 
 
