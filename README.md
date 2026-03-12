@@ -44,7 +44,7 @@
 | Qiskit, Quantum Circuits | ⭐⭐⭐⭐⭐ |
 | Scikit-learn, Pandas, NumPy | ⭐⭐⭐⭐⭐ |
 | TensorFlow, Keras, PyTorch | ⭐⭐|
-| HTML, CSS | ⭐⭐⭐ |
+| HTML, CSS, Django | ⭐⭐⭐ |
 | MongoDB | ⭐⭐ |
 | Git, Linux, Arduino | ⭐⭐⭐⭐ |
 
