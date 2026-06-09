@@ -29,8 +29,8 @@
 * Computer Vision Applications with OpenCV & MediaPipe
 * IoT and Embedded Systems Projects
 
-📚 Currently Learning:
-Quantum Machine Learning (QML), QAOA, Quantum Chemistry, Deep Learning, Advanced Computer Vision, Cybersecurity, Java, and System Design
+📚 Currently Exploring:
+Quantum Computing, Quantum Machine Learning, Quantum Chemistry, Deep Learning, Computer Vision, and Intelligent Healthcare Systems
 
 🌐 Open Source:
 Hacktoberfest Super Contributor • GSSoC '25 • OSCI '25 • Pull Shark Achievement
