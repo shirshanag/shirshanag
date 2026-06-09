@@ -16,13 +16,45 @@
 
 ## 🧠 Who am I?
 
-- 🎓 CSE Undergrad | MAKAUT | IoT & Cybersecurity  
-- 🛠️ Building: Real-world tools using **Python**, **APIs**, **Tkinter**, **ML/DL Models**  
-- 📚 Currently Learning: Quantum ML, CNNs, Cybersecurity, QAOA, Java 
-- 🌐 Contributor @ GSSoC '25 / OSCI ‘25  / Hacktoberfest'25
-- 🧑‍💻 Ask me about: Python, Qiskit, DSA, ML logic, CNN architectures  
-- 💼 Seeking: Internship opportunities (ML/Quantum preferred)  
-- ⚡ Fun fact: *I dream in qubits*  
+🎓 B.Tech CSE (IoT & Cybersecurity) @ MAKAUT
+
+🔬 Research Enthusiast exploring Quantum Computing, AI/ML, Computer Vision, Healthcare AI, and Intelligent Systems
+
+🚀 Building:
+
+* Quantum Molecular Stability Calculator
+* Quantum Ovarian Morphology Simulator
+* Alzheimer's Disease Classification using Deep Learning
+* PCOS Clinical Analysis & Prediction System
+* Computer Vision Applications with OpenCV & MediaPipe
+* IoT and Embedded Systems Projects
+
+📚 Currently Learning:
+Quantum Machine Learning (QML), QAOA, Quantum Chemistry, Deep Learning, Advanced Computer Vision, Cybersecurity, Java, and System Design
+
+🌐 Open Source:
+Hacktoberfest Super Contributor • GSSoC '25 • OSCI '25 • Pull Shark Achievement
+
+🧑‍💻 Ask me about:
+Python • Qiskit • Machine Learning • Deep Learning • Computer Vision • Django • DSA • Quantum Algorithms
+
+📄 Research Interests:
+Quantum Computing • Quantum Chemistry • Healthcare AI • Medical Imaging • Explainable AI • Intelligent Systems
+
+💼 Seeking:
+Research Internships, AI/ML Roles, Quantum Computing Opportunities, and Deep-Tech Collaborations
+
+🏆 Highlights:
+
+* IEEE Research Paper Presenter
+* IEEE peer reviewer GCON'26 (IIT Guwahati)
+* Quantum Computing Project Developer
+* ACM Student Chapter Member
+* NPTEL Certified (IIT Kharagpur)
+
+⚡ Fun Fact:
+I don't just dream in qubits—I try to turn them into research projects.
+
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="Python"/>
