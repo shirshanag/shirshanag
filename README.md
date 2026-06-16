@@ -106,6 +106,8 @@ Tools Used:
 * Customer Segmentation
 * Bankruptcy Prediction
 * Earthquake Damage Classification
+* Alzheimer Clasification
+* Mistral Mind 
 
 ### 👁️ Computer Vision
 
@@ -119,6 +121,24 @@ Tools Used:
 * Orbit-32 IoT Lab
 * Arduino Sensor Projects
 * Smart Embedded Applications
+### 🌐 Web Development 
+#### 🍔 Burger King E-Commerce Platform 
+- Built a full-stack e-commerce platform using Django
+- Product catalog and menu management
+- Shopping cart and order processing
+- User authentication and account management
+- Responsive web interface 
+#### 🔧 Prefix 
+- Web application developed using Django
+- Focused on scalable backend architecture
+- Database-driven workflows and user management
+#### 🚀 LeadForge CRM (Currently Building)
+- Customer Relationship Management (CRM) platform
+- Lead tracking and pipeline management
+- Contact and company management
+- Sales workflow automation
+- Analytics and reporting dashboard
+- Built with Django and modern web technologies
 
 ---
 
