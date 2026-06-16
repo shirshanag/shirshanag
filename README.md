@@ -1,127 +1,203 @@
-<!-- README.md (use this inside a markdown file) -->
+# ⚽ Hi, I'm Shirsha Nag
+
+### Football Enthusiast • Quantum Explorer • AI/ML Developer • Tech Lover
+
+<p align="center">
+  
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+I'm+Shirsha+Nag;Quantum+%2B+ML+Enthusiast" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Shirsha+Nag;Football+%7C+AI%2FML+%7C+Quantum+Computing;Applied+Data+Science+Student;Researcher+and+Builder;Always+Learning+Something+New" alt="Typing SVG" />
+
+
 </h1>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRocW4wOXk4N3R3dW1uczZpc29wNW5kcmV0YzhhZ2NhMjlteG9kaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif"  height="500" width="500" alt="coder GIF" />
+
 </p>
-
-
-
-
-
 
 ---
 
-## 🧠 Who am I?
+## ⚡ About Me
 
-🎓 B.Tech CSE (IoT & Cybersecurity) @ MAKAUT
+🎓 B.Tech CSE (IoT & Cybersecurity) Student
 
-🔬 Research Enthusiast exploring Quantum Computing, AI/ML, Computer Vision, Healthcare AI, and Intelligent Systems
+⚽ Passionate Football Fan who enjoys strategy, teamwork, and competition both on the field and in technology.
 
-🚀 Building:
+🚀 Tech enthusiast exploring the intersection of:
 
-* Quantum Molecular Stability Calculator
-* Quantum Ovarian Morphology Simulator
-* Alzheimer's Disease Classification using Deep Learning
-* PCOS Clinical Analysis & Prediction System
-* Computer Vision Applications with OpenCV & MediaPipe
-* IoT and Embedded Systems Projects
+* Artificial Intelligence & Machine Learning
+* Quantum Computing & Quantum Machine Learning
+* Computer Vision
+* Healthcare AI
+* Data Science
+* Intelligent Systems
 
-📚 Currently Exploring:
-Quantum Computing, Quantum Machine Learning, Quantum Chemistry, Deep Learning, Computer Vision, and Intelligent Healthcare Systems
-
-🌐 Open Source:
-Hacktoberfest Super Contributor • GSSoC '25 • OSCI '25 • Pull Shark Achievement
-
-🧑‍💻 Ask me about:
-Python • Qiskit • Machine Learning • Deep Learning • Computer Vision • Django • DSA • Quantum Algorithms
-
-📄 Research Interests:
-Quantum Computing • Quantum Chemistry • Healthcare AI • Medical Imaging • Explainable AI • Intelligent Systems
-
-💼 Seeking:
-Research Internships, AI/ML Roles, Quantum Computing Opportunities, and Deep-Tech Collaborations
-
-🏆 Highlights:
-
-* IEEE Research Paper Presenter
-* IEEE peer reviewer GCON'26 (IIT Guwahati)
-* Quantum Computing Project Developer
-* ACM Student Chapter Member
-* NPTEL Certified (IIT Kharagpur)
-
-⚡ Fun Fact:
-I don't just dream in qubits—I try to turn them into research projects.
-
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="Python"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" alt="Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Qiskit_logo.svg/512px-Qiskit_logo.svg.png" width="40" alt="Qiskit" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" alt="PyTorch"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" alt="GitHub"/>
-</p>
-
+🔬 Research-focused developer building innovative solutions that combine science, AI, and emerging technologies.
 
 ---
 
-## 🧰 Tech Toolbox
+## 📚 Current Learning Journey
 
-| Tools & Languages | Experience |
-|-------------------|------------|
-| Python, C++, Bash | ⭐⭐⭐⭐ |
-| Qiskit, Quantum Circuits | ⭐⭐⭐⭐⭐ |
-| Scikit-learn, Pandas, NumPy | ⭐⭐⭐⭐⭐ |
-| TensorFlow, Keras, PyTorch | ⭐⭐|
-| HTML, CSS, Django | ⭐⭐⭐ |
-| MongoDB | ⭐⭐ |
-| Git, Linux, Arduino | ⭐⭐⭐⭐ |
+* Quantum Computing with Qiskit
+* Quantum Machine Learning
+* Computer Vision & Deep Learning
+* Linux & Cybersecurity
+* Advanced Data Science
+* Research Methodology
+
+---
+
+## 🎓 Data Science Experience
+
+### WorldQuant University – Applied Data Science Lab
+
+Completed multiple end-to-end Data Science projects involving:
+
+📊 Data Cleaning & Wrangling
+
+📈 Exploratory Data Analysis (EDA)
+
+🤖 Machine Learning Model Development
+
+📉 Time Series Analysis
+
+🏠 Real Estate Price Prediction
+
+🌍 Air Quality Forecasting
+
+📋 Model Evaluation using RMSE, Correlation Analysis, ACF & PACF
+
+Tools Used:
+
+`Python` • `Pandas` • `NumPy` • `Scikit-Learn` • `Matplotlib` • `Plotly`
+
+---
+
+## 🔬 Research Interests
+
+* Quantum Computing
+* Quantum Chemistry
+* Quantum Machine Learning
+* Healthcare AI
+* Medical Imaging
+* Explainable AI (XAI)
+* Computer Vision
+* Intelligent Systems
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔬 [Quantum Computing](https://github.com/shirshanag/QxLab) – QML + Linear Regression  
-- 🎬 [Netflix Recommendation System (ML)](https://github.com/shirshanag/Netflix-recommendation-ml-model) – Collaborative Filtering  
-- 🌫️ [(ML Model)](https://github.com/shirshanag/Python-ML-projects)  
-- 🧠 [Image Classifier using CNN (Keras)](https://github.com/shirshanag/image-classifier-cnn)  
-- 💡 [Orbit-32](https://github.com/shirshanag/Arduino-IoT-Lab)- IoT + Sensor Projects (Tinkercad/Arduino)
+### ⚛️ Quantum Projects
+
+* Quantum Molecular Stability Calculator
+* Quantum Ovarian Morphology Simulator
+* Quantum Regression using Qiskit
+* Quantum vs Classical Machine Learning Performance Analysis
+
+### 🤖 AI & Machine Learning
+
+* Netflix Recommendation System
+* PCOS Clinical Analysis & Prediction System
+* Diabetes Prediction Models
+* Customer Segmentation
+* Bankruptcy Prediction
+* Earthquake Damage Classification
+
+### 👁️ Computer Vision
+
+* Face Detection & Recognition
+* PPE Detection System
+* Hand Gesture Volume Controller
+* Image Classification using CNN
+
+### 🌐 IoT & Embedded Systems
+
+* Orbit-32 IoT Lab
+* Arduino Sensor Projects
+* Smart Embedded Applications
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shirshanag&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirshanag&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirshanag&layout=compact&theme=tokyonight" />
-</p>
+🏅 IEEE Research Paper Presenter
+
+🏅 IEEE Peer Reviewer – GCON'26 (IIT Guwahati)
+
+🏅 NPTEL Certified in Internet of Things (IIT Kharagpur)
+
+🏅 ACM Student Chapter Member
+
+🏅 Hacktoberfest Contributor
+
+🏅 GSSoC '25 Contributor
+
+🏅 OSCI '25 Contributor
+
+🏅 GitHub Pull Shark Achievement
 
 ---
 
-## 🏆 GitHub Trophies
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shirshanag&theme=gruvbox&no-bg=true&no-frame=true" />
-</p>
+### Languages
 
+Python • C++ • JavaScript • Bash • HTML • CSS
+
+### AI & Data Science
+
+Scikit-Learn • Pandas • NumPy • TensorFlow • PyTorch • OpenCV
+
+### Quantum Computing
+
+Qiskit • Quantum Circuits • Quantum Algorithms
+
+### Development
+
+Git • GitHub • Linux • Django • MongoDB • Arduino
 
 ---
 
+## 🎯 Looking For
+
+* AI/ML Internships
+* Data Science Opportunities
+* Quantum Computing Research Roles
+* Open Source Collaborations
+* Deep-Tech Projects
+
+---
+
+## ⚽ Beyond Tech
+
+When I'm not coding, you'll probably find me:
+
+⚽ Watching football
+
+🏎️ Following Formula 1
+
+📷 Exploring photography
+
+📚 Reading about emerging technologies
+
+🔬 Working on research ideas
+
+---
+
+## 💡 Motto
+
+> "Whether it's a football match, a machine learning model, or a quantum circuit — continuous improvement wins championships."
+
+---
 
 ## 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shirsha-nag-b4aa87219/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:15shirsha@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/shirshanag" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github" alt="GitHub" /></a>
-</p>
+* GitHub: github.com/shirshanag
+* LinkedIn: linkedin.com/in/shirsha-nag-b4aa87219
+* Email: [15shirsha@gmail.com](mailto:15shirsha@gmail.com)
 
 ---
 
-<p align="center">Made with ❤️ by Shirsha Nag aka Quantum Wolf 🏎️⚛️</p>
+### ⚽ + ⚛️ + 🤖 = Shirsha Nag
+
+Building intelligent systems today while exploring the technologies of tomorrow.
