@@ -3,15 +3,9 @@
 ### Football Enthusiast • Quantum Explorer • AI/ML Developer • Tech Lover
 
 <p align="center">
-  
 <h1 align="center">
-
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Shirsha+Nag;Football+%7C+AI%2FML+%7C+Quantum+Computing;Applied+Data+Science+Student;Researcher+and+Builder;Always+Learning+Something+New" alt="Typing SVG" />
-
-
 </h1>
-
-
 </p>
 
 <p align="center">
@@ -36,6 +30,26 @@
 * Intelligent Systems
 
 🔬 Research-focused developer building innovative solutions that combine science, AI, and emerging technologies.
+
+---
+
+## 📄 Research Experience
+
+### 🧬 P1 — Quantum Computing and Molecular Stability: A New Frontier in Drug Discovery
+- **Conference:** National Conference on Recent Trends in Science and Technology **(NCRTST'25)**, India, 2025
+- **Role:** Research Paper Presenter
+- Explored the application of quantum computing to simulate molecular stability, proposing a novel approach to accelerate drug discovery pipelines using quantum circuits.
+- 🔗 [View on ResearchGate](https://www.researchgate.net/publication/394727276_Quantum_Computing_and_Molecular_Stability_A_new_Frontier_in_Drug_Discovery)
+
+### 🏠 P2 — House Price Prediction in Boston: A Comparative Study of Classical and Quantum Machine Learning Approaches
+- **Venue:** IIT Dhanbad
+- Benchmarked classical regression models against quantum kernel-based approaches (Qiskit) on the Boston housing dataset, analyzing accuracy, convergence, and computational trade-offs.
+
+### 🔊 P3 — Benchmarking Quantum Classifiers for Sonar-Based Mine Detection
+- **Conference:** GCON'26, **IIT Guwahati**
+- **Role:** Author & IEEE Peer Reviewer
+- Investigated the performance of quantum variational classifiers versus classical SVMs and neural networks on sonar datasets for underwater mine detection, contributing to applied quantum ML research.
+- Also served as an **IEEE Peer Reviewer** at GCON'26 (IIT Guwahati), evaluating submitted research papers for the conference.
 
 ---
 
@@ -96,18 +110,18 @@ Tools Used:
 * Quantum Molecular Stability Calculator
 * Quantum Ovarian Morphology Simulator
 * Quantum Regression using Qiskit
+* PCOS Clinical Analysis & Prediction System
 * Quantum vs Classical Machine Learning Performance Analysis
 
 ### 🤖 AI & Machine Learning
 
 * Netflix Recommendation System
-* PCOS Clinical Analysis & Prediction System
 * Diabetes Prediction Models
 * Customer Segmentation
 * Bankruptcy Prediction
 * Earthquake Damage Classification
-* Alzheimer Clasification
-* Mistral Mind 
+* Alzheimer Classification
+* Mistral Mind
 
 ### 👁️ Computer Vision
 
@@ -121,17 +135,21 @@ Tools Used:
 * Orbit-32 IoT Lab
 * Arduino Sensor Projects
 * Smart Embedded Applications
-### 🌐 Web Development 
-#### 🍔 Burger King E-Commerce Platform 
+
+### 🌐 Web Development
+
+#### 🍔 Burger King E-Commerce Platform
 - Built a full-stack e-commerce platform using Django
 - Product catalog and menu management
 - Shopping cart and order processing
 - User authentication and account management
-- Responsive web interface 
-#### 🔧 Prefix 
+- Responsive web interface
+
+#### 🔧 Prefix
 - Web application developed using Django
 - Focused on scalable backend architecture
 - Database-driven workflows and user management
+
 #### 🚀 LeadForge CRM (Currently Building)
 - Customer Relationship Management (CRM) platform
 - Lead tracking and pipeline management
@@ -144,9 +162,9 @@ Tools Used:
 
 ## 🏆 Achievements
 
-🏅 IEEE Research Paper Presenter
+🏅 Research Paper Presenter — NCRTST'25
 
-🏅 IEEE Peer Reviewer – GCON'26 (IIT Guwahati)
+🏅 IEEE Peer Reviewer — GCON'26 (IIT Guwahati)
 
 🏅 NPTEL Certified in Internet of Things (IIT Kharagpur)
 
