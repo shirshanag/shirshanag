@@ -225,6 +225,29 @@ When I'm not coding, you'll probably find me:
 🔬 Working on research ideas
 
 ---
+## 📊 GitHub Stats
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shirshanag&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirshanag&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shirshanag&theme=tokyonight&hide_border=true" />
+</p>
+
+ 
+## 📌 Profile Stats
+ 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/shirshanag?style=for-the-badge&color=blueviolet&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/shirshanag?style=for-the-badge&color=yellow&logo=github&label=Total+Stars" />
+  <img src="https://komarev.com/ghpvc/?username=shirshanag&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+</p>
+
+ 
+## 📈 Contribution Activity
+ 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shirshanag&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 💡 Motto
 
